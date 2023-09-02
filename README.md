@@ -62,10 +62,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Push to the branch: `git push origin feature/new-feature`.
 - Submit a pull request.
 
-## Show Your Support ⭐
+## Show Your Support 🌟
 
-If you find this project helpful or interesting, consider giving it a star on GitHub.
-
+If you find this project helpful or interesting, consider giving it a 🌟 on GitHub.
 ## License 📝
 
 This project is open for contributions. You are welcome to fork this repository, make changes, and submit pull requests. By contributing to this project, you agree that your contributions will be licensed under the same terms, allowing others to build upon your work
