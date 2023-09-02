@@ -47,5 +47,33 @@ Program completed.
 - This program is a basic simulation and does not include actual payment processing.
 - Make sure to replace the placeholder values (₹) with the actual Indian Rupee symbol in your code.
 
-Feel free to expand upon this README by adding more details, explanations, and usage instructions as needed.
+## Author 👤
+
+- Github -  [Tanisht Gupta](https://github.com/Tanisht48)
+- Linkedin -[Tanisht Gupta](https://www.linkedin.com/in/tanishtgupta/)
+
+## Contributing 🤝
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+- Fork this repository.
+- Create a new branch: `git checkout -b feature/new-feature`.
+- Make your changes and commit them: `git commit -m 'Add new feature'`.
+- Push to the branch: `git push origin feature/new-feature`.
+- Submit a pull request.
+
+## Show Your Support ⭐
+
+If you find this project helpful or interesting, consider giving it a star on GitHub.
+
+## License 📝
+
+This project is open for contributions. You are welcome to fork this repository, make changes, and submit pull requests. By contributing to this project, you agree that your contributions will be licensed under the same terms, allowing others to build upon your work
+
+
+
+
+
+
+
 
