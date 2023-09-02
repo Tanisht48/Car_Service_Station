@@ -6,7 +6,7 @@ import Utility.Pair;
 import java.util.HashMap;
 
 public class HatchBack implements ICar {
-  private HashMap<String, Pair>carServiceMap;
+  private HashMap<String,Pair>carServiceMap;
     public HatchBack(){
             carServiceMap = new HashMap<>();
             carServiceMap.put(ServiceCodes.BS01.name(),new Pair("Basic Servicing",2000));
